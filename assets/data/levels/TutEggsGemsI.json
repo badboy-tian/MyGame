@@ -1,0 +1,9232 @@
+
+{
+	"allowSleep" : true,
+	"autoClearForces" : true,
+	"body" : 
+	[
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COWSTART"
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body4",
+			"position" : 
+			{
+				"x" : 36.17422485351563,
+				"y" : 8.975875854492188
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "SHEEPSTART"
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body4",
+			"position" : 
+			{
+				"x" : 10.89033508300781,
+				"y" : 9.955834388732910
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "SHEEPSTART"
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body4",
+			"position" : 
+			{
+				"x" : 63.92413330078125,
+				"y" : 10.17467880249023
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "BAUBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"density" : 0.3471460044384003,
+					"filter-categoryBits" : 32,
+					"friction" : 0.2,
+					"name" : "fixture11",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.9374009966850281,
+								0.9271699786186218,
+								0.3738099932670593,
+								-0.3985210061073303,
+								-0.9374009966850281,
+								-0.9271699786186218,
+								-0.3738020062446594,
+								0.3985210061073303
+							],
+							"y" : 
+							[
+								-0.3738139867782593,
+								0.3985140025615692,
+								0.9374049901962280,
+								0.9271659851074219,
+								0.3738099932670593,
+								-0.3985179960727692,
+								-0.9374049901962280,
+								-0.9271659851074219
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.4595122933387756,
+			"massData-center" : 
+			{
+				"x" : 0,
+				"y" : 0
+			},
+			"massData-mass" : 1,
+			"name" : "body9",
+			"position" : 
+			{
+				"x" : 6.719879150390625,
+				"y" : 8.855987548828125
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 22.67696571350098,
+				"y" : 11.96994495391846
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 19.39838027954102,
+				"y" : 12.84844112396240
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 16.68762397766113,
+				"y" : 14.89114379882813
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 14.93945980072022,
+				"y" : 17.80057525634766
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 14.40848350524902,
+				"y" : 21.15302658081055
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 15.17202377319336,
+				"y" : 24.46027183532715
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 17.11887741088867,
+				"y" : 27.24067306518555
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 19.96552658081055,
+				"y" : 29.08930969238281
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 23.29740524291992,
+				"y" : 29.73695945739746
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 43.76641464233398,
+				"y" : 12.59005832672119
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 47.08155441284180,
+				"y" : 13.47834873199463
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 49.82254409790039,
+				"y" : 15.54382610321045
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 51.59019470214844,
+				"y" : 18.48569488525391
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "gate"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 0,
+							"y" : -0.5029253363609314
+						},
+						"radius" : 0.3879567086696625
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "GateWarp"
+						}
+					],
+					"density" : 1,
+					"filter-maskBits" : 5,
+					"friction" : 0.2,
+					"name" : "fixture14",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body18",
+			"position" : 
+			{
+				"x" : 60.11748886108398,
+				"y" : 43.49710464477539
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 52.12709045410156,
+				"y" : 21.87552642822266
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 51.35504150390625,
+				"y" : 25.21965789794922
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 49.3864746093750,
+				"y" : 28.03105163574219
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 46.50808715820313,
+				"y" : 29.90029525756836
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : -2.748853921890259,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"bullet" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "EGG"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "PreSolverScript",
+							"string" : "EggImpact"
+						}
+					],
+					"density" : 0.2887318730354309,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 65519,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.9846253395080566,
+								0.7131400108337402,
+								0.05770708248019218,
+								-0.5977174043655396,
+								-0.8692110776901245,
+								-0.6528685092926025,
+								-0.3399671912193298,
+								0.7131331562995911
+							],
+							"y" : 
+							[
+								0.1252293735742569,
+								0.7806630134582520,
+								1.052149653434753,
+								0.7806563973426819,
+								0.1252263486385346,
+								-1.147691130638123,
+								-1.277284741401672,
+								-0.5301971435546875
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.4256241023540497,
+			"massData-center" : 
+			{
+				"x" : -0.01080022007226944,
+				"y" : -0.04015160724520683
+			},
+			"massData-mass" : 0.85,
+			"name" : "body3",
+			"position" : 
+			{
+				"x" : 54.05486297607422,
+				"y" : 9.574075698852539
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : -2.748853921890259,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"bullet" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "EGG"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "PreSolverScript",
+							"string" : "EggImpact"
+						}
+					],
+					"density" : 0.2887318730354309,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 65519,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.9846253395080566,
+								0.7131400108337402,
+								0.05770708248019218,
+								-0.5977174043655396,
+								-0.8692110776901245,
+								-0.6528685092926025,
+								-0.3399671912193298,
+								0.7131331562995911
+							],
+							"y" : 
+							[
+								0.1252293735742569,
+								0.7806630134582520,
+								1.052149653434753,
+								0.7806563973426819,
+								0.1252263486385346,
+								-1.147691130638123,
+								-1.277284741401672,
+								-0.5301971435546875
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.4256241023540497,
+			"massData-center" : 
+			{
+				"x" : -0.01080022007226944,
+				"y" : -0.04015160724520683
+			},
+			"massData-mass" : 0.85,
+			"name" : "body3",
+			"position" : 
+			{
+				"x" : 18.72833442687988,
+				"y" : 44.51927566528320
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "PLAYERSTART"
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body4",
+			"position" : 
+			{
+				"x" : 45.59566879272461,
+				"y" : 50.48995971679688
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "NEST"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "NestHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 64,
+					"filter-maskBits" : 32,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								6.017844676971436,
+								-5.989889144897461,
+								-4.283909797668457,
+								4.476729869842529
+							],
+							"y" : 
+							[
+								0.7393503189086914,
+								0.6599421501159668,
+								-1.416380047798157,
+								-1.320510029792786
+							]
+						}
+					},
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body2",
+			"position" : 
+			{
+				"x" : 45.56499481201172,
+				"y" : 43.01249694824219
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : -0.3141592741012573,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "SURFACE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture1",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								-3.894162654876709,
+								-3.959100008010864,
+								-6.049710750579834,
+								-7.308920860290527,
+								-8.278571128845215,
+								-7.354855537414551,
+								-6.636760234832764
+							],
+							"y" : 
+							[
+								-3.762357711791992,
+								-0.8983470201492310,
+								0.3126394748687744,
+								-0.1492913365364075,
+								-1.396982789039612,
+								-3.015449047088623,
+								-3.950942993164063
+							]
+						}
+					}
+				},
+				
+				{
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture1",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -7.354855537414551, -8.278571128845215, -8.357837677001953 ],
+							"y" : [ -3.015449047088623, -1.396982789039612, -2.937157869338989 ]
+						}
+					}
+				},
+				
+				{
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture1",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								8.074035644531250,
+								3.412359952926636,
+								-3.959100008010864,
+								-3.894162654876709,
+								7.912721633911133
+							],
+							"y" : 
+							[
+								1.654982089996338,
+								1.610069990158081,
+								-0.8983470201492310,
+								-3.762357711791992,
+								0.3716437816619873
+							]
+						}
+					}
+				},
+				
+				{
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture1",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								9.695373535156250,
+								8.403222084045410,
+								7.097748756408691,
+								5.187066078186035,
+								3.412359952926636,
+								8.074035644531250
+							],
+							"y" : 
+							[
+								2.569314956665039,
+								3.544852495193481,
+								4.443295478820801,
+								4.177358150482178,
+								1.610069990158081,
+								1.654982089996338
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 45.61273956298828,
+				"y" : 41.72149658203125
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "COLLECTIBLE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "BeginContactScript",
+							"string" : "StarHit"
+						}
+					],
+					"density" : 1,
+					"filter-categoryBits" : 8192,
+					"filter-maskBits" : 4,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body1",
+			"position" : 
+			{
+				"x" : 43.13906097412109,
+				"y" : 30.55517196655273
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "SURFACE"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								36.97822952270508,
+								36.65836715698242,
+								26.88481712341309,
+								27.20467948913574
+							],
+							"y" : 
+							[
+								-34.92734527587891,
+								-32.95308685302734,
+								-34.53656387329102,
+								-36.51082229614258
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								27.37133979797363,
+								24.11187171936035,
+								23.45868873596191,
+								26.71815681457520
+							],
+							"y" : 
+							[
+								-34.57852554321289,
+								-33.45225524902344,
+								-35.34259033203125,
+								-36.46886062622070
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								24.68746948242188,
+								22.46148300170898,
+								20.65710449218750,
+								22.88309097290039
+							],
+							"y" : 
+							[
+								-33.96608352661133,
+								-29.31022644042969,
+								-30.17290878295898,
+								-34.82876205444336
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								23.69379615783691,
+								21.77496147155762,
+								20.59987640380859,
+								22.51871109008789
+							],
+							"y" : 
+							[
+								-26.02551841735840,
+								-25.46154212951660,
+								-29.45957946777344,
+								-30.02355575561523
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								29.33547210693359,
+								22.92772293090820,
+								22.54103469848633,
+								28.94878387451172
+							],
+							"y" : 
+							[
+								-26.02512550354004,
+								-24.76239967346191,
+								-26.72466087341309,
+								-27.98738670349121
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								35.66848373413086,
+								34.76260757446289,
+								28.68918991088867,
+								29.59506607055664
+							],
+							"y" : 
+							[
+								-24.81226158142090,
+								-23.02917671203613,
+								-26.11471366882324,
+								-27.89779853820801
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								38.29423904418945,
+								37.96535873413086,
+								35.05110549926758,
+								35.37998580932617
+							],
+							"y" : 
+							[
+								-24.42126846313477,
+								-22.44849395751953,
+								-22.93433189392090,
+								-24.90710639953613
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								43.68250656127930,
+								38.39068222045898,
+								37.86891555786133,
+								43.16073989868164
+							],
+							"y" : 
+							[
+								-23.89958000183106,
+								-22.46951103210449,
+								-24.40025138854981,
+								-25.83032035827637
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								46.41463470458984,
+								44.29040527343750,
+								42.55284118652344,
+								44.67707061767578
+							],
+							"y" : 
+							[
+								-28.09652519226074,
+								-24.36975288391113,
+								-25.36014747619629,
+								-29.08691978454590
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								46.42642974853516,
+								44.66527557373047,
+								43.48302459716797,
+								45.24417877197266
+							],
+							"y" : 
+							[
+								-29.06562614440918,
+								-28.11781883239746,
+								-30.31460380554199,
+								-31.26241111755371
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								44.74903488159180,
+								43.97816848754883,
+								36.43286514282227,
+								37.20373153686523
+							],
+							"y" : 
+							[
+								-31.71124458312988,
+								-29.86577033996582,
+								-33.01747894287109,
+								-34.86295318603516
+							]
+						}
+					}
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 27.04474830627441,
+							"y" : -35.52369308471680
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 23.78528022766113,
+							"y" : -34.39742279052734
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 21.55929374694824,
+							"y" : -29.74156761169434
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 22.73437881469727,
+							"y" : -25.74353027343750
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 29.14212799072266,
+							"y" : -27.00625610351563
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 35.21554565429688,
+							"y" : -23.92071914672852
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 38.12979888916016,
+							"y" : -23.43488121032715
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 43.42162322998047,
+							"y" : -24.86495018005371
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 45.54585266113281,
+							"y" : -28.59172248840332
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 44.36360168457031,
+							"y" : -30.78850746154785
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 36.81829833984375,
+							"y" : -33.94021606445313
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								45.54585266113281,
+								43.42162322998047,
+								38.12979888916016,
+								35.21554565429688,
+								29.14212799072266,
+								27.04474830627441,
+								36.81829833984375,
+								44.36360168457031
+							],
+							"y" : 
+							[
+								-28.59172248840332,
+								-24.86495018005371,
+								-23.43488121032715,
+								-23.92071914672852,
+								-27.00625610351563,
+								-35.52369308471680,
+								-33.94021606445313,
+								-30.78850746154785
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								29.14212799072266,
+								22.73437881469727,
+								21.55929374694824,
+								23.78528022766113,
+								27.04474830627441
+							],
+							"y" : 
+							[
+								-27.00625610351563,
+								-25.74353027343750,
+								-29.74156761169434,
+								-34.39742279052734,
+								-35.52369308471680
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								13.05477333068848,
+								12.12578010559082,
+								6.814515113830566,
+								7.743507385253906
+							],
+							"y" : 
+							[
+								-8.361002922058106,
+								-6.589852333068848,
+								-9.375683784484863,
+								-11.14683437347412
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								19.50478363037109,
+								12.59763050079346,
+								12.58292293548584,
+								19.49007415771484
+							],
+							"y" : 
+							[
+								-6.526251316070557,
+								-6.475454807281494,
+								-8.475400924682617,
+								-8.526197433471680
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								22.50128936767578,
+								21.68758773803711,
+								19.09057807922363,
+								19.90427970886231
+							],
+							"y" : 
+							[
+								-7.283063888549805,
+								-5.456075668334961,
+								-6.612730026245117,
+								-8.439718246459961
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								26.46112251281738,
+								22.74048614501953,
+								21.44839096069336,
+								25.16902732849121
+							],
+							"y" : 
+							[
+								-8.755389213562012,
+								-5.606273174285889,
+								-7.132866382598877,
+								-10.28198337554932
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								26.44143486022949,
+								25.18871498107910,
+								22.22993278503418,
+								23.48265266418457
+							],
+							"y" : 
+							[
+								-10.29822063446045,
+								-8.739151954650879,
+								-11.11654758453369,
+								-12.67561626434326
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								23.04550170898438,
+								22.66708374023438,
+								16.29464340209961,
+								16.67306137084961
+							],
+							"y" : 
+							[
+								-12.87801933288574,
+								-10.91414451599121,
+								-12.14204216003418,
+								-14.10591697692871
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								17.09038352966309,
+								15.87732028961182,
+								12.86205101013184,
+								14.07511520385742
+							],
+							"y" : 
+							[
+								-13.91903877258301,
+								-12.32892036437988,
+								-14.62919807434082,
+								-16.21931648254395
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								13.48965549468994,
+								9.437340736389160,
+								9.395195960998535,
+								13.44751071929932
+							],
+							"y" : 
+							[
+								-14.42447948455811,
+								-14.33906841278076,
+								-16.33862495422363,
+								-16.42403602600098
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								10.33794784545898,
+								8.200690269470215,
+								6.357332229614258,
+								8.494588851928711
+							],
+							"y" : 
+							[
+								-14.95089340209961,
+								-9.873306274414063,
+								-10.64921188354492,
+								-15.72679901123047
+							]
+						}
+					}
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 12.59027671813965,
+							"y" : -7.475427627563477
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 19.49742889404297,
+							"y" : -7.526224136352539
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 22.09443855285645,
+							"y" : -6.369569778442383
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 25.81507492065430,
+							"y" : -9.518686294555664
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 22.85629272460938,
+							"y" : -11.89608192443848
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 16.48385238647461,
+							"y" : -13.12397956848145
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 13.46858310699463,
+							"y" : -15.42425727844238
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 9.416268348693848,
+							"y" : -15.33884620666504
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 7.279011249542236,
+							"y" : -10.26125907897949
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								19.49742889404297,
+								12.59027671813965,
+								7.279011249542236,
+								9.416268348693848,
+								13.46858310699463,
+								16.48385238647461
+							],
+							"y" : 
+							[
+								-7.526224136352539,
+								-7.475427627563477,
+								-10.26125907897949,
+								-15.33884620666504,
+								-15.42425727844238,
+								-13.12397956848145
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								25.81507492065430,
+								22.09443855285645,
+								19.49742889404297,
+								16.48385238647461,
+								22.85629272460938
+							],
+							"y" : 
+							[
+								-9.518686294555664,
+								-6.369569778442383,
+								-7.526224136352539,
+								-13.12397956848145,
+								-11.89608192443848
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								68.50840759277344,
+								67.54806518554688,
+								66.25302124023438,
+								67.21336364746094
+							],
+							"y" : 
+							[
+								-7.801659107208252,
+								-6.985634326934815,
+								-8.509721755981445,
+								-9.325746536254883
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								68.33798980712891,
+								67.38378143310547,
+								61.83522415161133,
+								62.78944015502930
+							],
+							"y" : 
+							[
+								-9.442547798156738,
+								-7.684857368469238,
+								-10.69705295562744,
+								-12.45474338531494
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								62.51722335815430,
+								62.10744094848633,
+								53.22256851196289,
+								53.63235092163086
+							],
+							"y" : 
+							[
+								-12.55468273162842,
+								-10.59711360931397,
+								-12.45700454711914,
+								-14.41457366943359
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								53.48012542724609,
+								53.37479400634766,
+								44.35014343261719,
+								44.45547485351563
+							],
+							"y" : 
+							[
+								-14.4344015121460,
+								-12.43717670440674,
+								-12.91314029693604,
+								-14.91036510467529
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								44.82154846191406,
+								38.09626007080078,
+								37.25878143310547,
+								43.98406982421875
+							],
+							"y" : 
+							[
+								-13.00364589691162,
+								-9.902536392211914,
+								-11.718750,
+								-14.81985950469971
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								38.28894042968750,
+								36.07482147216797,
+								34.85198211669922,
+								37.06610107421875
+							],
+							"y" : 
+							[
+								-10.01933670043945,
+								-8.308550834655762,
+								-9.891163825988770,
+								-11.60194969177246
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								37.19960021972656,
+								35.53071594238281,
+								34.62895965576172,
+								36.29784393310547
+							],
+							"y" : 
+							[
+								-8.285551071166992,
+								-7.183362960815430,
+								-8.548763275146484,
+								-9.650951385498047
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								38.55025482177734,
+								37.89110565185547,
+								36.03558349609375,
+								36.69473266601563
+							],
+							"y" : 
+							[
+								-8.030869483947754,
+								-6.142609596252441,
+								-6.790327072143555,
+								-8.678586959838867
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								40.27352142333984,
+								39.08230972290039,
+								37.35905075073242,
+								38.55026245117188
+							],
+							"y" : 
+							[
+								-8.601492881774902,
+								-6.579203605651856,
+								-7.594275474548340,
+								-9.616564750671387
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								50.12598037719727,
+								39.43330764770508,
+								39.39047622680664,
+								50.08314895629883
+							],
+							"y" : 
+							[
+								-8.338286399841309,
+								-8.109257698059082,
+								-10.10879993438721,
+								-10.33782863616943
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								53.79089736938477,
+								52.90808486938477,
+								49.66315841674805,
+								50.54597091674805
+							],
+							"y" : 
+							[
+								-8.639119148254395,
+								-6.844502449035645,
+								-8.440749168395996,
+								-10.23536586761475
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								66.90097808837891,
+								53.34992218017578,
+								53.34906005859375,
+								66.90010833740234
+							],
+							"y" : 
+							[
+								-6.747677803039551,
+								-6.741810798645020,
+								-8.741810798645020,
+								-8.747677803039551
+							]
+						}
+					}
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 67.86088562011719,
+							"y" : -8.563702583312988
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 62.31233215332031,
+							"y" : -11.57589817047119
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 53.42745971679688,
+							"y" : -13.43578910827637
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 44.40280914306641,
+							"y" : -13.91175270080566
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 37.67752075195313,
+							"y" : -10.81064319610596
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 35.46340179443359,
+							"y" : -9.099857330322266
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 36.36515808105469,
+							"y" : -7.734457015991211
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 38.22068023681641,
+							"y" : -7.086739540100098
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 39.41189193725586,
+							"y" : -9.109028816223145
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 50.10456466674805,
+							"y" : -9.338057518005371
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 53.34949111938477,
+							"y" : -7.741810798645020
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 66.90054321289063,
+							"y" : -7.747677803039551
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4"
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								39.41189193725586,
+								38.22068023681641,
+								36.36515808105469,
+								35.46340179443359,
+								37.67752075195313
+							],
+							"y" : 
+							[
+								-9.109028816223145,
+								-7.086739540100098,
+								-7.734457015991211,
+								-9.099857330322266,
+								-10.81064319610596
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								53.42745971679688,
+								50.10456466674805,
+								39.41189193725586,
+								37.67752075195313,
+								44.40280914306641
+							],
+							"y" : 
+							[
+								-13.43578910827637,
+								-9.338057518005371,
+								-9.109028816223145,
+								-10.81064319610596,
+								-13.91175270080566
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								67.86088562011719,
+								66.90054321289063,
+								53.34949111938477,
+								50.10456466674805,
+								53.42745971679688,
+								62.31233215332031
+							],
+							"y" : 
+							[
+								-8.563702583312988,
+								-7.747677803039551,
+								-7.741810798645020,
+								-9.338057518005371,
+								-13.43578910827637,
+								-11.57589817047119
+							]
+						}
+					}
+				},
+				
+				{
+					"density" : 1,
+					"filter-maskBits" : 65527,
+					"friction" : 0.2,
+					"name" : "fixture0",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								68.93598937988281,
+								68.93563842773438,
+								1.607272110959457e-006,
+								1.650980038903072e-006
+							],
+							"y" : 
+							[
+								8.441013336181641,
+								9.974803924560547,
+								9.974803924560547,
+								8.441013336181641
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								6.851657390594482,
+								0.1562139987945557,
+								-0.08801288157701492,
+								6.607430934906006
+							],
+							"y" : 
+							[
+								-42.23509597778320,
+								-41.41132736206055,
+								-43.39635848999023,
+								-44.22012710571289
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								18.40508460998535,
+								18.12625312805176,
+								6.590128421783447,
+								6.868959903717041
+							],
+							"y" : 
+							[
+								-42.59366607666016,
+								-40.61319732666016,
+								-42.23737716674805,
+								-44.21784591674805
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								25.40325736999512,
+								18.29929351806641,
+								18.23204421997070,
+								25.33600807189941
+							],
+							"y" : 
+							[
+								-40.84299468994141,
+								-40.60399627685547,
+								-42.60286712646484,
+								-42.84186553955078
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								36.95676422119141,
+								25.59545707702637,
+								25.14380836486816,
+								36.50511169433594
+							],
+							"y" : 
+							[
+								-43.50196456909180,
+								-40.86826324462891,
+								-42.81659698486328,
+								-45.45029830932617
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								39.55556869506836,
+								36.73102569580078,
+								36.73085021972656,
+								39.55539321899414
+							],
+							"y" : 
+							[
+								-43.47638320922852,
+								-43.47613143920898,
+								-45.47613143920898,
+								-45.47638320922852
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								43.09479522705078,
+								42.41851043701172,
+								39.21733856201172,
+								39.89362335205078
+							],
+							"y" : 
+							[
+								-44.26726531982422,
+								-42.38507843017578,
+								-43.53528976440430,
+								-45.41747665405273
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								49.64788436889648,
+								49.39982223510742,
+								42.63262176513672,
+								42.88068389892578
+							],
+							"y" : 
+							[
+								-43.47258758544922,
+								-41.48802947998047,
+								-42.33389282226563,
+								-44.31845092773438
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								61.04996490478516,
+								49.60885620117188,
+								49.43885040283203,
+								60.87995910644531
+							],
+							"y" : 
+							[
+								-42.45997619628906,
+								-41.48392868041992,
+								-43.47668838500977,
+								-44.45273590087891
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ 69.09072875976563, 68.72329711914063, 60.781250, 61.14867401123047 ],
+							"y" : 
+							[
+								-42.95500946044922,
+								-40.98905181884766,
+								-42.47337722778320,
+								-44.43933486938477
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								69.90699005126953,
+								67.90703582763672,
+								67.85301971435547,
+								69.85297393798828
+							],
+							"y" : 
+							[
+								-41.9787597656250,
+								-41.96530151367188,
+								-49.99327087402344,
+								-50.00672912597656
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								68.85299682617188,
+								68.85299682617188,
+								50.46114730834961,
+								50.46114730834961
+							],
+							"y" : [ -51.0, -49.0, -49.0, -51.0 ]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								50.46114730834961,
+								50.46114730834961,
+								20.13056564331055,
+								20.13056564331055
+							],
+							"y" : [ -51.0, -49.0, -49.0, -51.0 ]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ 20.13056564331055, 20.13056564331055, 0, 0 ],
+							"y" : [ -51.0, -49.0, -49.0, -51.0 ]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								1.034090518951416,
+								-0.9658893346786499,
+								-0.9999899268150330,
+								0.9999899268150330
+							],
+							"y" : 
+							[
+								-42.40833282470703,
+								-42.39935302734375,
+								-49.99551010131836,
+								-50.00448989868164
+							]
+						}
+					}
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 6.729544162750244,
+							"y" : -43.22761154174805
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 18.26566886901856,
+							"y" : -41.60343170166016
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 25.36963272094727,
+							"y" : -41.84243011474609
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 36.73093795776367,
+							"y" : -44.47613143920898
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 39.55548095703125,
+							"y" : -44.47638320922852
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 42.75665283203125,
+							"y" : -43.3261718750
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 49.52385330200195,
+							"y" : -42.48030853271484
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 60.96496200561523,
+							"y" : -43.45635604858398
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 68.90701293945313,
+							"y" : -41.97203063964844
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 68.85299682617188,
+							"y" : -50.0
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 50.46114730834961,
+							"y" : -50.0
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 20.13056564331055,
+							"y" : -50.0
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 0,
+							"y" : -50.0
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2"
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : 0.03410056233406067,
+							"y" : -42.40384292602539
+						},
+						"radius" : 1
+					},
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2"
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								50.46114730834961,
+								36.73093795776367,
+								25.36963272094727,
+								18.26566886901856,
+								6.729544162750244,
+								0
+							],
+							"y" : 
+							[
+								-50.0,
+								-44.47613143920898,
+								-41.84243011474609,
+								-41.60343170166016,
+								-43.22761154174805,
+								-50.0
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ 6.729544162750244, 0.03410056233406067, 0 ],
+							"y" : [ -43.22761154174805, -42.40384292602539, -50.0 ]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ 50.46114730834961, 39.55548095703125, 36.73093795776367 ],
+							"y" : [ -50.0, -44.47638320922852, -44.47613143920898 ]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								68.85299682617188,
+								60.96496200561523,
+								49.52385330200195,
+								42.75665283203125,
+								39.55548095703125,
+								50.46114730834961
+							],
+							"y" : 
+							[
+								-50.0,
+								-43.45635604858398,
+								-42.48030853271484,
+								-43.3261718750,
+								-44.47638320922852,
+								-50.0
+							]
+						}
+					}
+				},
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"int" : 1,
+							"name" : "RenderLayer"
+						},
+						
+						{
+							"int" : 1,
+							"name" : "RenderOrder"
+						},
+						
+						{
+							"name" : "TextureMask",
+							"string" : "forest-tile.png"
+						},
+						
+						{
+							"color" : [ 192, 147, 147, 255 ],
+							"name" : "colorTint"
+						}
+					],
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ 68.90701293945313, 60.96496200561523, 68.85299682617188 ],
+							"y" : [ -41.97203063964844, -43.45635604858398, -50.0 ]
+						}
+					}
+				},
+				
+				{
+					"density" : 1,
+					"filter-maskBits" : 65527,
+					"friction" : 0.2,
+					"name" : "fixture0",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								68.94084167480469,
+								68.94084167480469,
+								66.85299682617188,
+								66.85299682617188
+							],
+							"y" : 
+							[
+								-49.84697723388672,
+								9.746990203857422,
+								9.746952056884766,
+								-49.82509994506836
+							]
+						}
+					}
+				},
+				
+				{
+					"density" : 1,
+					"filter-maskBits" : 65527,
+					"friction" : 0.2,
+					"name" : "fixture0",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ 2, 2, 0.02565896511077881, 0.02565896511077881 ],
+							"y" : 
+							[
+								-49.84329986572266,
+								9.271495819091797,
+								9.271541595458984,
+								-49.84332275390625
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body0",
+			"position" : 
+			{
+				"x" : 0,
+				"y" : 50.0
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : -2.748853921890259,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"bullet" : true,
+			"customProperties" : 
+			[
+				
+				{
+					"name" : "GameInfo",
+					"string" : "EGG"
+				}
+			],
+			"fixture" : 
+			[
+				
+				{
+					"customProperties" : 
+					[
+						
+						{
+							"name" : "PreSolverScript",
+							"string" : "EggImpact"
+						}
+					],
+					"density" : 0.2887318730354309,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 65519,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.9846253395080566,
+								0.7131400108337402,
+								0.05770708248019218,
+								-0.5977174043655396,
+								-0.8692110776901245,
+								-0.6528685092926025,
+								-0.3399671912193298,
+								0.7131331562995911
+							],
+							"y" : 
+							[
+								0.1252293735742569,
+								0.7806630134582520,
+								1.052149653434753,
+								0.7806563973426819,
+								0.1252263486385346,
+								-1.147691130638123,
+								-1.277284741401672,
+								-0.5301971435546875
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.4256241023540497,
+			"massData-center" : 
+			{
+				"x" : -0.01080022007226944,
+				"y" : -0.04015160724520683
+			},
+			"massData-mass" : 0.85,
+			"name" : "body3",
+			"position" : 
+			{
+				"x" : 28.82435226440430,
+				"y" : 25.43614196777344
+			},
+			"type" : 2
+		}
+	],
+	"collisionbitplanes" : 
+	{
+		"names" : 
+		[
+			"SURFACE",
+			"ENEMY",
+			"PLAYER",
+			"BULLET",
+			"INVISIWALL",
+			"GRABBABLE",
+			"NEST",
+			"HAZARD",
+			"WATER_CTRL",
+			"ONESIDE",
+			"CROSSA",
+			"CROSSB",
+			"DESTRUCTIBLE",
+			"bitplane14",
+			"bitplane15",
+			"bitplane16",
+			"bitplane17",
+			"bitplane18",
+			"bitplane19",
+			"bitplane20",
+			"bitplane21",
+			"bitplane22",
+			"bitplane23",
+			"bitplane24",
+			"bitplane25",
+			"bitplane26",
+			"bitplane27",
+			"bitplane28",
+			"bitplane29",
+			"bitplane30",
+			"bitplane31",
+			"bitplane32"
+		]
+	},
+	"continuousPhysics" : true,
+	"customProperties" : 
+	[
+		
+		{
+			"int" : 2,
+			"name" : "EggCapturePar"
+		},
+		
+		{
+			"int" : 120,
+			"name" : "ParTime"
+		},
+		
+		{
+			"name" : "WorldScript",
+			"string" : "DisplayPopup,EggsGemsI,false,false,false"
+		},
+		
+		{
+			"color" : [ 0, 209, 255, 255 ],
+			"name" : "bgColor"
+		}
+	],
+	"gravity" : 
+	{
+		"x" : 0,
+		"y" : -40.0
+	},
+	"image" : 
+	[
+		
+		{
+			"aspectScale" : 1,
+			"body" : 2,
+			"center" : 
+			{
+				"x" : 0.0006141662597656250,
+				"y" : -0.04851317405700684
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-1.057078123092651,
+					1.058306455612183,
+					1.058306455612183,
+					-1.057078123092651
+				],
+				"y" : 
+				[
+					-1.048513174057007,
+					-1.048513174057007,
+					0.9514868259429932,
+					0.9514868259429932
+				]
+			},
+			"file" : "../../graphics/input/Sheep-Body.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-1.057078123092651,
+				-1.048513174057007,
+				1.058306455612183,
+				-1.048513174057007,
+				1.058306455612183,
+				0.9514868259429932,
+				-1.057078123092651,
+				0.9514868259429932
+			],
+			"name" : "image10",
+			"opacity" : 1,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 24,
+			"center" : 
+			{
+				"x" : 0.05494689941406250,
+				"y" : -0.01723098754882813
+			},
+			"colorTint" : [ 76, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					-2.145053148269653,
+					2.254946947097778,
+					2.254946947097778,
+					-2.145053148269653
+				],
+				"y" : 
+				[
+					-2.017230987548828,
+					-2.017230987548828,
+					1.982769012451172,
+					1.982769012451172
+				]
+			},
+			"file" : "../../graphics/input/Head.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-2.145053148269653,
+				-2.017230987548828,
+				2.254946947097778,
+				-2.017230987548828,
+				2.254946947097778,
+				1.982769012451172,
+				-2.145053148269653,
+				1.982769012451172
+			],
+			"name" : "image8",
+			"opacity" : 1,
+			"scale" : 4
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 0,
+			"center" : 
+			{
+				"x" : -0.04147720336914063,
+				"y" : -0.004515647888183594
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-1.628015637397766,
+					1.545061230659485,
+					1.545061230659485,
+					-1.628015637397766
+				],
+				"y" : 
+				[
+					-1.504515647888184,
+					-1.504515647888184,
+					1.495484352111816,
+					1.495484352111816
+				]
+			},
+			"file" : "../../graphics/input/Cow-Body.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-1.628015637397766,
+				-1.504515647888184,
+				1.545061230659485,
+				-1.504515647888184,
+				1.545061230659485,
+				1.495484352111816,
+				-1.628015637397766,
+				1.495484352111816
+			],
+			"name" : "image44",
+			"opacity" : 1,
+			"scale" : 3
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 1,
+			"center" : 
+			{
+				"x" : 0.0006141662597656250,
+				"y" : -0.04851317405700684
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-1.057078123092651,
+					1.058306455612183,
+					1.058306455612183,
+					-1.057078123092651
+				],
+				"y" : 
+				[
+					-1.048513174057007,
+					-1.048513174057007,
+					0.9514868259429932,
+					0.9514868259429932
+				]
+			},
+			"file" : "../../graphics/input/Sheep-Body.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-1.057078123092651,
+				-1.048513174057007,
+				1.058306455612183,
+				-1.048513174057007,
+				1.058306455612183,
+				0.9514868259429932,
+				-1.057078123092651,
+				0.9514868259429932
+			],
+			"name" : "image10",
+			"opacity" : 1,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -30.91812705993652,
+				"y" : 11.26281166076660
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-63.09017181396484,
+					1.253915905952454,
+					1.253915905952454,
+					-63.09017181396484
+				],
+				"y" : 
+				[
+					-0.4246883392333984,
+					-0.4246883392333984,
+					22.95031166076660,
+					22.95031166076660
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 0,
+					"name" : "RenderLayer"
+				},
+				
+				{
+					"bool" : true,
+					"name" : "isParallax"
+				},
+				
+				{
+					"bool" : true,
+					"name" : "isSeamlessX"
+				},
+				
+				{
+					"float" : 24.0,
+					"name" : "parallaxXRatio"
+				},
+				
+				{
+					"float" : 0.01250000018626452,
+					"name" : "parallaxYRatio"
+				}
+			],
+			"file" : "../../graphics/input/background/valley/valleybg.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-63.09017181396484,
+				-0.4246883392333984,
+				1.253915905952454,
+				-0.4246883392333984,
+				1.253915905952454,
+				22.95031166076660,
+				-63.09017181396484,
+				22.95031166076660
+			],
+			"name" : "image54",
+			"opacity" : 1,
+			"renderOrder" : 5,
+			"scale" : 23.3750
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -31.22633934020996,
+				"y" : 12.65322685241699
+			},
+			"colorTint" : [ 192, 192, 192, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					-63.91451263427734,
+					1.461832642555237,
+					1.461832642555237,
+					-63.91451263427734
+				],
+				"y" : 
+				[
+					0.7782268524169922,
+					0.7782268524169922,
+					24.52822685241699,
+					24.52822685241699
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 0,
+					"name" : "RenderLayer"
+				},
+				
+				{
+					"bool" : true,
+					"name" : "isParallax"
+				},
+				
+				{
+					"bool" : true,
+					"name" : "isSeamlessX"
+				},
+				
+				{
+					"float" : 16.0,
+					"name" : "parallaxXRatio"
+				},
+				
+				{
+					"float" : 0.02500000037252903,
+					"name" : "parallaxYRatio"
+				}
+			],
+			"file" : "../../graphics/input/background/valley/valleymid.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-63.91451263427734,
+				0.7782268524169922,
+				1.461832642555237,
+				0.7782268524169922,
+				1.461832642555237,
+				24.52822685241699,
+				-63.91451263427734,
+				24.52822685241699
+			],
+			"name" : "image55",
+			"opacity" : 1,
+			"renderOrder" : 10,
+			"scale" : 23.750
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -31.05092430114746,
+				"y" : 5.203378677368164
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-63.05092620849609,
+					0.9490759372711182,
+					0.9490759372711182,
+					-63.05092620849609
+				],
+				"y" : 
+				[
+					0.4533786773681641,
+					0.4533786773681641,
+					9.953378677368164,
+					9.953378677368164
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 0,
+					"name" : "RenderLayer"
+				},
+				
+				{
+					"bool" : true,
+					"name" : "isParallax"
+				},
+				
+				{
+					"bool" : true,
+					"name" : "isSeamlessX"
+				},
+				
+				{
+					"float" : 8,
+					"name" : "parallaxXRatio"
+				},
+				
+				{
+					"float" : 0.05,
+					"name" : "parallaxYRatio"
+				}
+			],
+			"file" : "../../graphics/input/background/valley/valleyfg.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-63.05092620849609,
+				0.4533786773681641,
+				0.9490759372711182,
+				0.4533786773681641,
+				0.9490759372711182,
+				9.953378677368164,
+				-63.05092620849609,
+				9.953378677368164
+			],
+			"name" : "image56",
+			"opacity" : 1,
+			"renderOrder" : 20.0,
+			"scale" : 9.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -36.12690734863281,
+				"y" : 18.34566307067871
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-41.23405075073242,
+					-31.01976394653320,
+					-31.01976394653320,
+					-41.23405075073242
+				],
+				"y" : 
+				[
+					17.59566307067871,
+					17.59566307067871,
+					19.09566307067871,
+					19.09566307067871
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 0,
+					"name" : "RenderLayer"
+				},
+				
+				{
+					"bool" : true,
+					"name" : "isParallax"
+				},
+				
+				{
+					"float" : 0.05,
+					"name" : "parallaxXRatio"
+				},
+				
+				{
+					"float" : 0.02500000037252903,
+					"name" : "parallaxYRatio"
+				}
+			],
+			"file" : "../../graphics/input/background/generalbg/Cloud-2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-41.23405075073242,
+				17.59566307067871,
+				-31.01976394653320,
+				17.59566307067871,
+				-31.01976394653320,
+				19.09566307067871,
+				-41.23405075073242,
+				19.09566307067871
+			],
+			"name" : "image13",
+			"opacity" : 1,
+			"renderOrder" : 25.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -14.84681224822998,
+				"y" : 20.91616439819336
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-25.80030059814453,
+					-3.893323898315430,
+					-3.893323898315430,
+					-25.80030059814453
+				],
+				"y" : 
+				[
+					19.91616439819336,
+					19.91616439819336,
+					21.91616439819336,
+					21.91616439819336
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 0,
+					"name" : "RenderLayer"
+				},
+				
+				{
+					"bool" : true,
+					"name" : "isParallax"
+				},
+				
+				{
+					"float" : 0.1,
+					"name" : "parallaxXRatio"
+				},
+				
+				{
+					"float" : 0.05,
+					"name" : "parallaxYRatio"
+				}
+			],
+			"file" : "../../graphics/input/background/generalbg/Cloud-4.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-25.80030059814453,
+				19.91616439819336,
+				-3.893323898315430,
+				19.91616439819336,
+				-3.893323898315430,
+				21.91616439819336,
+				-25.80030059814453,
+				21.91616439819336
+			],
+			"name" : "image15",
+			"opacity" : 1,
+			"renderOrder" : 30.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -50.18743133544922,
+				"y" : 20.85676193237305
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-58.00710296630859,
+					-42.36775970458984,
+					-42.36775970458984,
+					-58.00710296630859
+				],
+				"y" : 
+				[
+					19.85676193237305,
+					19.85676193237305,
+					21.85676193237305,
+					21.85676193237305
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 0,
+					"name" : "RenderLayer"
+				},
+				
+				{
+					"bool" : true,
+					"name" : "isParallax"
+				},
+				
+				{
+					"float" : 0.1,
+					"name" : "parallaxXRatio"
+				},
+				
+				{
+					"float" : 0.05,
+					"name" : "parallaxYRatio"
+				}
+			],
+			"file" : "../../graphics/input/background/generalbg/Cloud-3.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-58.00710296630859,
+				19.85676193237305,
+				-42.36775970458984,
+				19.85676193237305,
+				-42.36775970458984,
+				21.85676193237305,
+				-58.00710296630859,
+				21.85676193237305
+			],
+			"name" : "image14",
+			"opacity" : 1,
+			"renderOrder" : 30.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 25,
+			"center" : 
+			{
+				"x" : 0.4109420776367188,
+				"y" : -1.091896057128906
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-9.347896575927734,
+					10.16978073120117,
+					10.16978073120117,
+					-9.347896575927734
+				],
+				"y" : 
+				[
+					-3.867065906524658,
+					-3.867065906524658,
+					1.683273792266846,
+					1.683273792266846
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/Nest.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-9.347896575927734,
+				-3.867065906524658,
+				10.16978073120117,
+				-3.867065906524658,
+				10.16978073120117,
+				1.683273792266846,
+				-9.347896575927734,
+				1.683273792266846
+			],
+			"name" : "image17",
+			"opacity" : 1,
+			"renderOrder" : 32.0,
+			"scale" : 5.550339698791504
+		},
+		
+		{
+			"angle" : 0.2059162557125092,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 36.47742843627930,
+				"y" : 28.86216735839844
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					34.74738693237305,
+					38.84642028808594,
+					38.20746994018555,
+					34.10843658447266
+				],
+				"y" : 
+				[
+					26.90457916259766,
+					27.76077270507813,
+					30.81975555419922,
+					29.96356201171875
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/flowerb.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				34.74738693237305,
+				26.90457916259766,
+				38.84642028808594,
+				27.76077270507813,
+				38.20746994018555,
+				30.81975555419922,
+				34.10843658447266,
+				29.96356201171875
+			],
+			"name" : "image41",
+			"opacity" : 1,
+			"renderOrder" : 45.0,
+			"scale" : 3.1250
+		},
+		
+		{
+			"angle" : 0.4895602464675903,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 9.595873832702637,
+				"y" : 43.83461761474609
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					8.302420616149902,
+					12.77027797698975,
+					10.88932704925537,
+					6.421469688415527
+				],
+				"y" : 
+				[
+					40.87924957275391,
+					43.25982666015625,
+					46.78998565673828,
+					44.40940856933594
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/Grass-1.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				8.302420616149902,
+				40.87924957275391,
+				12.77027797698975,
+				43.25982666015625,
+				10.88932704925537,
+				46.78998565673828,
+				6.421469688415527,
+				44.40940856933594
+			],
+			"name" : "image28",
+			"opacity" : 1,
+			"renderOrder" : 45.0,
+			"scale" : 4
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 8,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 19,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 18,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 16,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 15,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 14,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 13,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 12,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 11,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 10,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 9,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"angle" : 0.1273257881402969,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 46.04076004028320,
+				"y" : 7.488485813140869
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					42.77453994750977,
+					49.49745178222656,
+					49.30698013305664,
+					42.58406829833984
+				],
+				"y" : 
+				[
+					6.314229011535645,
+					7.174884796142578,
+					8.662742614746094,
+					7.802086830139160
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-124c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				42.77453994750977,
+				6.314229011535645,
+				49.49745178222656,
+				7.174884796142578,
+				49.30698013305664,
+				8.662742614746094,
+				42.58406829833984,
+				7.802086830139160
+			],
+			"name" : "image12",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 7,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 6,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 5,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 4,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"angle" : 0.3279498219490051,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 41.27664947509766,
+				"y" : 6.554497718811035
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					39.99298095703125,
+					43.04347229003906,
+					42.56031799316406,
+					39.50982666015625
+				],
+				"y" : 
+				[
+					5.325525760650635,
+					6.363412380218506,
+					7.783469676971436,
+					6.745583057403565
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-060c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				39.99298095703125,
+				5.325525760650635,
+				43.04347229003906,
+				6.363412380218506,
+				42.56031799316406,
+				7.783469676971436,
+				39.50982666015625,
+				6.745583057403565
+			],
+			"name" : "image11",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 38.05322647094727,
+				"y" : 6.0061035156250
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					36.44211578369141,
+					39.66433715820313,
+					39.66433715820313,
+					36.44211578369141
+				],
+				"y" : [ 5.2561035156250, 5.2561035156250, 6.7561035156250, 6.7561035156250 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-060c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				36.44211578369141,
+				5.2561035156250,
+				39.66433715820313,
+				5.2561035156250,
+				39.66433715820313,
+				6.7561035156250,
+				36.44211578369141,
+				6.7561035156250
+			],
+			"name" : "image11",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"angle" : -0.2382105290889740,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 39.95261001586914,
+				"y" : 23.57519340515137
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					37.15927124023438,
+					42.20028305053711,
+					42.74594879150391,
+					37.70493698120117
+				],
+				"y" : 
+				[
+					23.06362533569336,
+					21.83956146240234,
+					24.08676147460938,
+					25.31082534790039
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/bonesc.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				37.15927124023438,
+				23.06362533569336,
+				42.20028305053711,
+				21.83956146240234,
+				42.74594879150391,
+				24.08676147460938,
+				37.70493698120117,
+				25.31082534790039
+			],
+			"name" : "image37",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2.31250
+		},
+		
+		{
+			"angle" : -0.1208873838186264,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 3.283156871795654,
+				"y" : 7.736557960510254
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.1714447438716888,
+					6.556868553161621,
+					6.737758636474609,
+					0.009444992057979107
+				],
+				"y" : 
+				[
+					7.400708198547363,
+					6.583354473114014,
+					8.072407722473145,
+					8.889760971069336
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-124c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.1714447438716888,
+				7.400708198547363,
+				6.556868553161621,
+				6.583354473114014,
+				6.737758636474609,
+				8.072407722473145,
+				0.009444992057979107,
+				8.889760971069336
+			],
+			"name" : "image12",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"angle" : -0.01134121045470238,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 15.65490531921387,
+				"y" : 42.85078048706055
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					12.25772857666016,
+					19.03507041931152,
+					19.05208206176758,
+					12.27474021911621
+				],
+				"y" : 
+				[
+					42.13926315307617,
+					42.06239700317383,
+					43.56229782104492,
+					43.63916397094727
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-124c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				12.25772857666016,
+				42.13926315307617,
+				19.03507041931152,
+				42.06239700317383,
+				19.05208206176758,
+				43.56229782104492,
+				12.27474021911621,
+				43.63916397094727
+			],
+			"name" : "image12",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"angle" : 0.3919869959354401,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 20.81250572204590,
+				"y" : 43.46721649169922
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					19.61011314392090,
+					22.58793640136719,
+					22.01489830017090,
+					19.03707504272461
+				],
+				"y" : 
+				[
+					42.15861892700195,
+					43.38958740234375,
+					44.77581405639648,
+					43.54484558105469
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-060c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				19.61011314392090,
+				42.15861892700195,
+				22.58793640136719,
+				43.38958740234375,
+				22.01489830017090,
+				44.77581405639648,
+				19.03707504272461,
+				43.54484558105469
+			],
+			"name" : "image11",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"angle" : 0.4735261797904968,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 9.572007179260254,
+				"y" : 41.38765716552734
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					6.898032665252686,
+					12.93002319335938,
+					12.24598217010498,
+					6.213991641998291
+				],
+				"y" : 
+				[
+					39.17475509643555,
+					42.26560974121094,
+					43.60055923461914,
+					40.50970458984375
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-124c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				6.898032665252686,
+				39.17475509643555,
+				12.93002319335938,
+				42.26560974121094,
+				12.24598217010498,
+				43.60055923461914,
+				6.213991641998291,
+				40.50970458984375
+			],
+			"name" : "image12",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 60.31318283081055,
+				"y" : 42.61300659179688
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					54.39651489257813,
+					66.22985076904297,
+					66.22985076904297,
+					54.39651489257813
+				],
+				"y" : 
+				[
+					41.86300659179688,
+					41.86300659179688,
+					43.36300659179688,
+					43.36300659179688
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-216c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				54.39651489257813,
+				41.86300659179688,
+				66.22985076904297,
+				41.86300659179688,
+				66.22985076904297,
+				43.36300659179688,
+				54.39651489257813,
+				43.36300659179688
+			],
+			"name" : "image14",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"angle" : 0.4595035314559937,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 32.18492126464844,
+				"y" : 25.01512145996094
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					29.48017883300781,
+					35.55491638183594,
+					34.88966369628906,
+					28.81492424011231
+				],
+				"y" : 
+				[
+					22.83993339538574,
+					25.84589958190918,
+					27.19030952453613,
+					24.18434333801270
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-124c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				29.48017883300781,
+				22.83993339538574,
+				35.55491638183594,
+				25.84589958190918,
+				34.88966369628906,
+				27.19030952453613,
+				28.81492424011231,
+				24.18434333801270
+			],
+			"name" : "image12",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"angle" : 0.1514417976140976,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 36.66823959350586,
+				"y" : 26.70572280883789
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					35.18871688842773,
+					38.37405776977539,
+					38.14776229858398,
+					34.96242141723633
+				],
+				"y" : 
+				[
+					25.72124862670898,
+					26.20736503601074,
+					27.69019699096680,
+					27.20408058166504
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-060c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				35.18871688842773,
+				25.72124862670898,
+				38.37405776977539,
+				26.20736503601074,
+				38.14776229858398,
+				27.69019699096680,
+				34.96242141723633,
+				27.20408058166504
+			],
+			"name" : "image11",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"angle" : -0.1690915673971176,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 25.50620460510254,
+				"y" : 24.14913558959961
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					22.03943252563477,
+					28.72054672241211,
+					28.97297668457031,
+					22.29186248779297
+				],
+				"y" : 
+				[
+					23.98013877868652,
+					22.83952713012695,
+					24.31813240051270,
+					25.45874404907227
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-124c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				22.03943252563477,
+				23.98013877868652,
+				28.72054672241211,
+				22.83952713012695,
+				28.97297668457031,
+				24.31813240051270,
+				22.29186248779297,
+				25.45874404907227
+			],
+			"name" : "image12",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 27,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"angle" : -0.07508704066276550,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 55.11627960205078,
+				"y" : 7.454604148864746
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					49.16002273559570,
+					60.96001052856445,
+					61.07253646850586,
+					49.27254867553711
+				],
+				"y" : 
+				[
+					7.150565147399902,
+					6.262869834899902,
+					7.758643150329590,
+					8.646338462829590
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-216c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				49.16002273559570,
+				7.150565147399902,
+				60.96001052856445,
+				6.262869834899902,
+				61.07253646850586,
+				7.758643150329590,
+				49.27254867553711,
+				8.646338462829590
+			],
+			"name" : "image14",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"angle" : 0.1229416057467461,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 12.56719970703125,
+				"y" : 8.055549621582031
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					6.787164688110352,
+					18.53118324279785,
+					18.34723472595215,
+					6.603216648101807
+				],
+				"y" : 
+				[
+					6.585637092590332,
+					8.036784172058106,
+					9.525462150573731,
+					8.074315071105957
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-216c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				6.787164688110352,
+				6.585637092590332,
+				18.53118324279785,
+				8.036784172058106,
+				18.34723472595215,
+				9.525462150573731,
+				6.603216648101807,
+				8.074315071105957
+			],
+			"name" : "image14",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"angle" : -0.02,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 21.67185401916504,
+				"y" : 8.695172309875488
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					18.26864433288574,
+					25.04506683349609,
+					25.07506370544434,
+					18.29864120483398
+				],
+				"y" : 
+				[
+					8.013095855712891,
+					7.877549171447754,
+					9.377248764038086,
+					9.512795448303223
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-124c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				18.26864433288574,
+				8.013095855712891,
+				25.04506683349609,
+				7.877549171447754,
+				25.07506370544434,
+				9.377248764038086,
+				18.29864120483398,
+				9.512795448303223
+			],
+			"name" : "image12",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"angle" : -0.2228000164031982,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 30.62027549743652,
+				"y" : 7.339787483215332
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					24.68413352966309,
+					36.22497558593750,
+					36.55641937255859,
+					25.01557540893555
+				],
+				"y" : 
+				[
+					7.915679931640625,
+					5.300971508026123,
+					6.763895034790039,
+					9.378603935241699
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-216c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				24.68413352966309,
+				7.915679931640625,
+				36.22497558593750,
+				5.300971508026123,
+				36.55641937255859,
+				6.763895034790039,
+				25.01557540893555,
+				9.378603935241699
+			],
+			"name" : "image14",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 21,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"angle" : 0.1847629249095917,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 66.74360656738281,
+				"y" : 8.014940261840820
+			},
+			"colorTint" : [ 170, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					61.06542587280273,
+					72.69735717773438,
+					72.42178344726563,
+					60.78985595703125
+				],
+				"y" : 
+				[
+					6.190733909606934,
+					8.364676475524902,
+					9.839146614074707,
+					7.665203571319580
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/fgrass-216c.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				61.06542587280273,
+				6.190733909606934,
+				72.69735717773438,
+				8.364676475524902,
+				72.42178344726563,
+				9.839146614074707,
+				60.78985595703125,
+				7.665203571319580
+			],
+			"name" : "image14",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 1.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 20,
+			"center" : 
+			{
+				"x" : 2.425163984298706e-006,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9999975562095642,
+					1.000002384185791,
+					1.000002384185791,
+					-0.9999975562095642
+				],
+				"y" : [ -1, -1, 1, 1 ]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/coin.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9999975562095642,
+				-1,
+				1.000002384185791,
+				-1,
+				1.000002384185791,
+				1,
+				-0.9999975562095642,
+				1
+			],
+			"name" : "image6",
+			"opacity" : 1,
+			"renderOrder" : 50.0,
+			"scale" : 2
+		},
+		
+		{
+			"angle" : -0.09148682653903961,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 59.54640197753906,
+				"y" : 8.751205444335938
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					57.14650344848633,
+					61.75216293334961,
+					61.94630050659180,
+					57.34064102172852
+				],
+				"y" : 
+				[
+					7.904417037963867,
+					7.481880664825440,
+					9.597993850708008,
+					10.02053070068359
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/rocksf.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				57.14650344848633,
+				7.904417037963867,
+				61.75216293334961,
+				7.481880664825440,
+				61.94630050659180,
+				9.597993850708008,
+				57.34064102172852,
+				10.02053070068359
+			],
+			"name" : "image48",
+			"opacity" : 1,
+			"renderOrder" : 55.0,
+			"scale" : 2.1250
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 3.331538677215576,
+				"y" : 13.33137321472168
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.6315293908119202,
+					7.294606685638428,
+					7.294606685638428,
+					-0.6315293908119202
+				],
+				"y" : 
+				[
+					7.706373214721680,
+					7.706373214721680,
+					18.95637321472168,
+					18.95637321472168
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 0,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "../../graphics/input/background/generalbg/foresttreed.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.6315293908119202,
+				7.706373214721680,
+				7.294606685638428,
+				7.706373214721680,
+				7.294606685638428,
+				18.95637321472168,
+				-0.6315293908119202,
+				18.95637321472168
+			],
+			"name" : "image24",
+			"opacity" : 1,
+			"renderOrder" : 100.0,
+			"scale" : 11.250
+		},
+		
+		{
+			"angle" : -0.4058511853218079,
+			"aspectScale" : 1,
+			"body" : 3,
+			"center" : 
+			{
+				"x" : 0,
+				"y" : 0.005161523818969727
+			},
+			"colorTint" : [ 0, 255, 0, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					-1.332712411880493,
+					0.5316023826599121,
+					1.332712411880493,
+					-0.5316023826599121
+				],
+				"y" : 
+				[
+					-0.5264408588409424,
+					-1.327550888061523,
+					0.5367639064788818,
+					1.337873935699463
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/gems-3.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-1.332712411880493,
+				-0.5264408588409424,
+				0.5316023826599121,
+				-1.327550888061523,
+				1.332712411880493,
+				0.5367639064788818,
+				-0.5316023826599121,
+				1.337873935699463
+			],
+			"name" : "image10",
+			"opacity" : 1,
+			"renderOrder" : 110.0,
+			"scale" : 2.029149293899536
+		},
+		
+		{
+			"angle" : 2.748853921890259,
+			"aspectScale" : 1,
+			"body" : 23,
+			"center" : 
+			{
+				"x" : -0.07688527554273605,
+				"y" : -0.1053184121847153
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					1.196204543113709,
+					-0.4556791186332703,
+					-1.349974989891052,
+					0.3019085526466370
+				],
+				"y" : 
+				[
+					0.6319166421890259,
+					1.316225886344910,
+					-0.8425534367561340,
+					-1.526862740516663
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/egg.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				1.196204543113709,
+				0.6319166421890259,
+				-0.4556791186332703,
+				1.316225886344910,
+				-1.349974989891052,
+				-0.8425534367561340,
+				0.3019085526466370,
+				-1.526862740516663
+			],
+			"name" : "image7",
+			"opacity" : 1,
+			"renderOrder" : 254.0,
+			"scale" : 2.336684226989746
+		},
+		
+		{
+			"angle" : 2.748853921890259,
+			"aspectScale" : 1,
+			"body" : 22,
+			"center" : 
+			{
+				"x" : -0.07688527554273605,
+				"y" : -0.1053184121847153
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					1.196204543113709,
+					-0.4556791186332703,
+					-1.349974989891052,
+					0.3019085526466370
+				],
+				"y" : 
+				[
+					0.6319166421890259,
+					1.316225886344910,
+					-0.8425534367561340,
+					-1.526862740516663
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/egg.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				1.196204543113709,
+				0.6319166421890259,
+				-0.4556791186332703,
+				1.316225886344910,
+				-1.349974989891052,
+				-0.8425534367561340,
+				0.3019085526466370,
+				-1.526862740516663
+			],
+			"name" : "image7",
+			"opacity" : 1,
+			"renderOrder" : 254.0,
+			"scale" : 2.336684226989746
+		},
+		
+		{
+			"angle" : 2.748853921890259,
+			"aspectScale" : 1,
+			"body" : 29,
+			"center" : 
+			{
+				"x" : -0.07688527554273605,
+				"y" : -0.1053184121847153
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					1.196204543113709,
+					-0.4556791186332703,
+					-1.349974989891052,
+					0.3019085526466370
+				],
+				"y" : 
+				[
+					0.6319166421890259,
+					1.316225886344910,
+					-0.8425534367561340,
+					-1.526862740516663
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/egg.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				1.196204543113709,
+				0.6319166421890259,
+				-0.4556791186332703,
+				1.316225886344910,
+				-1.349974989891052,
+				-0.8425534367561340,
+				0.3019085526466370,
+				-1.526862740516663
+			],
+			"name" : "image7",
+			"opacity" : 1,
+			"renderOrder" : 254.0,
+			"scale" : 2.336684226989746
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 17,
+			"center" : 
+			{
+				"x" : 0.08735656738281250,
+				"y" : 0.1311386823654175
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-3.912643432617188,
+					4.087356567382813,
+					4.087356567382813,
+					-3.912643432617188
+				],
+				"y" : 
+				[
+					-7.868861198425293,
+					-7.868861198425293,
+					8.131138801574707,
+					8.131138801574707
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/gateeffect.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-3.912643432617188,
+				-7.868861198425293,
+				4.087356567382813,
+				-7.868861198425293,
+				4.087356567382813,
+				8.131138801574707,
+				-3.912643432617188,
+				8.131138801574707
+			],
+			"name" : "image53",
+			"opacity" : 1,
+			"renderOrder" : 512.0,
+			"scale" : 16.0
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 25,
+			"center" : 
+			{
+				"x" : 0.05530738830566406,
+				"y" : -0.8391342163085938
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-8.663442611694336,
+					8.774057388305664,
+					8.774057388305664,
+					-8.663442611694336
+				],
+				"y" : 
+				[
+					-2.901634216308594,
+					-2.901634216308594,
+					1.223365783691406,
+					1.223365783691406
+				]
+			},
+			"customProperties" : 
+			[
+				
+				{
+					"int" : 4,
+					"name" : "RenderLayer"
+				}
+			],
+			"file" : "images/Nest-Over-Top.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+			"glVertexPointer" : 
+			[
+				-8.663442611694336,
+				-2.901634216308594,
+				8.774057388305664,
+				-2.901634216308594,
+				8.774057388305664,
+				1.223365783691406,
+				-8.663442611694336,
+				1.223365783691406
+			],
+			"name" : "image18",
+			"opacity" : 1,
+			"renderOrder" : 512.0,
+			"scale" : 4.1250
+		}
+	],
+	"positionIterations" : 3,
+	"stepsPerSecond" : 60.0,
+	"subStepping" : false,
+	"velocityIterations" : 8,
+	"warmStarting" : true
+}

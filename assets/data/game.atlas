@@ -1,0 +1,2184 @@
+
+game.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Morning-Star
+  rotate: false
+  xy: 2, 753
+  size: 256, 269
+  orig: 256, 269
+  offset: 0, 0
+  index: -1
+Swing-Blade
+  rotate: false
+  xy: 262, 820
+  size: 317, 202
+  orig: 317, 202
+  offset: 0, 0
+  index: -1
+Nest
+  rotate: false
+  xy: 583, 931
+  size: 320, 91
+  orig: 320, 91
+  offset: 0, 0
+  index: -1
+Axe-Head
+  rotate: false
+  xy: 2, 531
+  size: 177, 218
+  orig: 177, 218
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 583, 799
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+Nest-Over-Top
+  rotate: false
+  xy: 262, 750
+  size: 279, 66
+  orig: 279, 66
+  offset: 0, 0
+  index: -1
+fgrass-444c
+  rotate: false
+  xy: 183, 719
+  size: 442, 27
+  orig: 442, 27
+  offset: 0, 0
+  index: -1
+ygrass-381c
+  rotate: false
+  xy: 183, 688
+  size: 378, 27
+  orig: 378, 27
+  offset: 0, 0
+  index: -1
+snow-358c
+  rotate: false
+  xy: 183, 657
+  size: 358, 27
+  orig: 358, 27
+  offset: 0, 0
+  index: -1
+ygrass-321c
+  rotate: false
+  xy: 183, 626
+  size: 318, 27
+  orig: 318, 27
+  offset: 0, 0
+  index: -1
+fgrass-316c
+  rotate: false
+  xy: 183, 595
+  size: 314, 27
+  orig: 314, 27
+  offset: 0, 0
+  index: -1
+snow-302c
+  rotate: false
+  xy: 183, 564
+  size: 302, 27
+  orig: 302, 27
+  offset: 0, 0
+  index: -1
+Bar-Empty
+  rotate: false
+  xy: 183, 516
+  size: 266, 44
+  orig: 266, 44
+  offset: 0, 0
+  index: -1
+stamina-bar-empty
+  rotate: false
+  xy: 545, 751
+  size: 266, 44
+  orig: 266, 44
+  offset: 0, 0
+  index: -1
+slimea
+  rotate: false
+  xy: 2, 415
+  size: 146, 112
+  orig: 146, 112
+  offset: 0, 0
+  index: -1
+Spear-Head
+  rotate: false
+  xy: 152, 437
+  size: 205, 75
+  orig: 205, 75
+  offset: 0, 0
+  index: -1
+fgrass-216c
+  rotate: false
+  xy: 152, 406
+  size: 213, 27
+  orig: 213, 27
+  offset: 0, 0
+  index: -1
+snow-205c
+  rotate: false
+  xy: 629, 720
+  size: 205, 27
+  orig: 205, 27
+  offset: 0, 0
+  index: -1
+rocksnowa
+  rotate: false
+  xy: 2, 331
+  size: 125, 80
+  orig: 125, 80
+  offset: 0, 0
+  index: -1
+ygrass-219c
+  rotate: false
+  xy: 131, 376
+  size: 216, 26
+  orig: 216, 26
+  offset: 0, 0
+  index: -1
+flap
+  rotate: false
+  xy: 2, 227
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+grab
+  rotate: false
+  xy: 2, 123
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+next
+  rotate: false
+  xy: 2, 19
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shoot
+  rotate: false
+  xy: 907, 922
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Grass-3
+  rotate: false
+  xy: 131, 308
+  size: 139, 64
+  orig: 139, 64
+  offset: 0, 0
+  index: -1
+birdwing-1
+  rotate: false
+  xy: 361, 437
+  size: 92, 75
+  orig: 92, 75
+  offset: 0, 0
+  index: -1
+bignum
+  rotate: false
+  xy: 106, 176
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+Ragged-Wing1b
+  rotate: false
+  xy: 174, 225
+  size: 97, 79
+  orig: 97, 79
+  offset: 0, 0
+  index: -1
+snow-153c
+  rotate: false
+  xy: 629, 689
+  size: 153, 27
+  orig: 153, 27
+  offset: 0, 0
+  index: -1
+birdwing-4
+  rotate: false
+  xy: 106, 87
+  size: 79, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: -1
+Bat-Wing-1a
+  rotate: false
+  xy: 106, 6
+  size: 91, 77
+  orig: 91, 77
+  offset: 0, 0
+  index: -1
+Grass-1
+  rotate: false
+  xy: 274, 308
+  size: 81, 64
+  orig: 81, 64
+  offset: 0, 0
+  index: -1
+Ragged-Wing1f
+  rotate: false
+  xy: 275, 225
+  size: 97, 79
+  orig: 97, 79
+  offset: 0, 0
+  index: -1
+ygrass-140c
+  rotate: false
+  xy: 174, 195
+  size: 136, 26
+  orig: 136, 26
+  offset: 0, 0
+  index: -1
+Stone-64
+  rotate: false
+  xy: 189, 127
+  size: 123, 64
+  orig: 123, 64
+  offset: 0, 0
+  index: -1
+fgrass-124c
+  rotate: false
+  xy: 189, 96
+  size: 122, 27
+  orig: 122, 27
+  offset: 0, 0
+  index: -1
+Ragged-Wing1a
+  rotate: false
+  xy: 201, 14
+  size: 96, 78
+  orig: 96, 78
+  offset: 0, 0
+  index: -1
+egg
+  rotate: false
+  xy: 843, 859
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: 1
+rocksnowd
+  rotate: false
+  xy: 899, 854
+  size: 109, 64
+  orig: 109, 64
+  offset: 0, 0
+  index: -1
+Spine2
+  rotate: false
+  xy: 565, 680
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+egg
+  rotate: false
+  xy: 843, 787
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: 2
+bonesa
+  rotate: false
+  xy: 899, 786
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+Bat-Wing-1b
+  rotate: false
+  xy: 369, 357
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+Stone-32
+  rotate: false
+  xy: 359, 321
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1
+Bat-Wing-1f
+  rotate: false
+  xy: 376, 240
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+Ragged-Wing4
+  rotate: false
+  xy: 316, 138
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+Bat-Wing-4
+  rotate: false
+  xy: 394, 154
+  size: 70, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1
+bonesb
+  rotate: false
+  xy: 629, 630
+  size: 102, 55
+  orig: 102, 55
+  offset: 0, 0
+  index: -1
+head8
+  rotate: false
+  xy: 545, 599
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+rocksc
+  rotate: false
+  xy: 629, 579
+  size: 102, 47
+  orig: 102, 47
+  offset: 0, 0
+  index: -1
+head9
+  rotate: false
+  xy: 735, 608
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: -1
+fgrass-060c
+  rotate: false
+  xy: 786, 689
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+Bat-Wing-2a
+  rotate: false
+  xy: 735, 576
+  size: 93, 28
+  orig: 93, 28
+  offset: 0, 0
+  index: -1
+belly
+  rotate: false
+  xy: 817, 609
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+Stone-48
+  rotate: false
+  xy: 893, 734
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+birdwing-1f
+  rotate: false
+  xy: 893, 655
+  size: 92, 75
+  orig: 92, 75
+  offset: 0, 0
+  index: -1
+flowera
+  rotate: false
+  xy: 893, 605
+  size: 90, 46
+  orig: 90, 46
+  offset: 0, 0
+  index: -1
+Wing-4
+  rotate: false
+  xy: 832, 555
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+head7
+  rotate: false
+  xy: 893, 525
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+flowerc
+  rotate: false
+  xy: 984, 551
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+Head5
+  rotate: false
+  xy: 301, 19
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+snow-059c
+  rotate: false
+  xy: 315, 96
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+Bat-Wing-2b
+  rotate: false
+  xy: 394, 121
+  size: 89, 29
+  orig: 89, 29
+  offset: 0, 0
+  index: -1
+Ragged-Wing2a
+  rotate: false
+  xy: 378, 88
+  size: 98, 29
+  orig: 98, 29
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 376, 17
+  size: 79, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 459, 17
+  size: 79, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+bonesc
+  rotate: false
+  xy: 542, 558
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1
+Ragged-Wing2b
+  rotate: false
+  xy: 629, 545
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+rocksnowc
+  rotate: false
+  xy: 731, 540
+  size: 97, 32
+  orig: 97, 32
+  offset: 0, 0
+  index: -1
+rockse
+  rotate: false
+  xy: 480, 88
+  size: 81, 29
+  orig: 81, 29
+  offset: 0, 0
+  index: -1
+Body3
+  rotate: false
+  xy: 542, 17
+  size: 79, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+Ragged-Wing2f
+  rotate: false
+  xy: 625, 511
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+birdwing-2
+  rotate: false
+  xy: 727, 506
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+Bat-Wing-2f
+  rotate: false
+  xy: 625, 477
+  size: 92, 30
+  orig: 92, 30
+  offset: 0, 0
+  index: -1
+birdwing-2f
+  rotate: false
+  xy: 721, 468
+  size: 92, 34
+  orig: 92, 34
+  offset: 0, 0
+  index: -1
+options
+  rotate: false
+  xy: 565, 499
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+birdwing-3
+  rotate: false
+  xy: 625, 440
+  size: 92, 33
+  orig: 92, 33
+  offset: 0, 0
+  index: -1
+bonesd
+  rotate: false
+  xy: 721, 427
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+bonese
+  rotate: false
+  xy: 625, 403
+  size: 90, 33
+  orig: 90, 33
+  offset: 0, 0
+  index: -1
+snow-090c
+  rotate: false
+  xy: 719, 396
+  size: 90, 27
+  orig: 90, 27
+  offset: 0, 0
+  index: -1
+Ragged-Wing3
+  rotate: false
+  xy: 625, 367
+  size: 87, 32
+  orig: 87, 32
+  offset: 0, 0
+  index: -1
+Bat-Wing-3
+  rotate: false
+  xy: 716, 362
+  size: 85, 30
+  orig: 85, 30
+  offset: 0, 0
+  index: -1
+Moose-Head
+  rotate: false
+  xy: 453, 516
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+Head4
+  rotate: false
+  xy: 457, 447
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+Head6
+  rotate: false
+  xy: 460, 378
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+rocksnowb
+  rotate: false
+  xy: 527, 447
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+Grass-2
+  rotate: false
+  xy: 530, 379
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+Wing-1b
+  rotate: false
+  xy: 468, 323
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+slimeb
+  rotate: false
+  xy: 470, 255
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+Wing-1f
+  rotate: false
+  xy: 543, 324
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+Head3
+  rotate: false
+  xy: 545, 258
+  size: 69, 62
+  orig: 69, 62
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 618, 299
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 618, 235
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+Wing-1a
+  rotate: false
+  xy: 686, 308
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+gems-1
+  rotate: false
+  xy: 688, 240
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Chain-Link-1
+  rotate: false
+  xy: 761, 294
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+Cow-Body
+  rotate: false
+  xy: 756, 238
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+Wing-2a
+  rotate: false
+  xy: 470, 215
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+flowerb
+  rotate: false
+  xy: 468, 161
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+Wing-2f
+  rotate: false
+  xy: 487, 121
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+Head2
+  rotate: false
+  xy: 545, 193
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+rocksa
+  rotate: false
+  xy: 615, 190
+  size: 79, 41
+  orig: 79, 41
+  offset: 0, 0
+  index: -1
+Horn-Long-Back
+  rotate: false
+  xy: 698, 186
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+gems-2
+  rotate: false
+  xy: 755, 170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ygrass-066c
+  rotate: false
+  xy: 539, 163
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+eggbar
+  rotate: false
+  xy: 606, 166
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Wing-2b
+  rotate: false
+  xy: 562, 122
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+eggpiece2
+  rotate: false
+  xy: 565, 88
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+Goat-Body
+  rotate: false
+  xy: 636, 111
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+egg
+  rotate: false
+  xy: 695, 114
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: 3
+gems-3
+  rotate: false
+  xy: 751, 102
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Arm2
+  rotate: false
+  xy: 989, 697
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Chain-Link-2
+  rotate: false
+  xy: 999, 786
+  size: 14, 64
+  orig: 14, 64
+  offset: 0, 0
+  index: -1
+Sheep-Body
+  rotate: false
+  xy: 625, 55
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+Moose-Body
+  rotate: false
+  xy: 625, 8
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+horn-wavy
+  rotate: false
+  xy: 684, 38
+  size: 26, 69
+  orig: 26, 69
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 684, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+eggpiece1
+  rotate: false
+  xy: 714, 60
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+rubble1
+  rotate: false
+  xy: 720, 2
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+rocksg
+  rotate: false
+  xy: 749, 61
+  size: 76, 37
+  orig: 76, 37
+  offset: 0, 0
+  index: -1
+eggpiece3
+  rotate: false
+  xy: 773, 12
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+Goat-Head
+  rotate: false
+  xy: 989, 645
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Normal-Eyes
+  rotate: false
+  xy: 987, 620
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+Horn-Left
+  rotate: false
+  xy: 351, 378
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+Fin-Ear-Front
+  rotate: false
+  xy: 106, 308
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Horn-Front-Long
+  rotate: false
+  xy: 838, 725
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+eyesg1
+  rotate: false
+  xy: 848, 701
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+eyesg3
+  rotate: false
+  xy: 522, 534
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+Sheep-Head
+  rotate: false
+  xy: 527, 499
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Cow-Head
+  rotate: false
+  xy: 505, 618
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Angry-Lids
+  rotate: false
+  xy: 984, 527
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+eyesg2
+  rotate: false
+  xy: 832, 531
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+Fin-Ear-Back
+  rotate: false
+  xy: 815, 774
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Tail-Spike
+  rotate: false
+  xy: 815, 751
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+Lids-Closed
+  rotate: false
+  xy: 501, 594
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+Lids-Heavy
+  rotate: false
+  xy: 827, 507
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+rocksf
+  rotate: false
+  xy: 865, 487
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+Spine1
+  rotate: false
+  xy: 943, 485
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+Foot-Walk
+  rotate: false
+  xy: 829, 470
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+rocksd
+  rotate: false
+  xy: 865, 459
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+Wing-3
+  rotate: false
+  xy: 933, 448
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+blackstar
+  rotate: false
+  xy: 829, 436
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Arm
+  rotate: false
+  xy: 865, 422
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Foot-Lift
+  rotate: false
+  xy: 900, 421
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Horn-Right
+  rotate: false
+  xy: 997, 759
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+rubble2
+  rotate: false
+  xy: 931, 426
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+whitestar
+  rotate: false
+  xy: 955, 426
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Ear-Right
+  rotate: false
+  xy: 174, 181
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Ear-Left
+  rotate: false
+  xy: 611, 485
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Horn-Bone-1
+  rotate: false
+  xy: 997, 735
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+Horn-Bone-2
+  rotate: false
+  xy: 979, 424
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+paintchip
+  rotate: false
+  xy: 879, 541
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+greenball
+  rotate: false
+  xy: 545, 800
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+greyball
+  rotate: false
+  xy: 522, 574
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Cow-Leg-Left
+  rotate: false
+  xy: 1000, 461
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+Cow-Leg-Right
+  rotate: false
+  xy: 805, 372
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 721, 506
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+game2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: x
+background/forest/forestmid
+  rotate: false
+  xy: 0, 387
+  size: 1024, 404
+  orig: 1024, 404
+  offset: 0, 0
+  index: -1
+background/forest/forestfg
+  rotate: false
+  xy: 0, 2
+  size: 1024, 381
+  orig: 1024, 381
+  offset: 0, 0
+  index: -1
+
+game3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background/generalbg/ruinscolumn
+  rotate: false
+  xy: 2, 716
+  size: 258, 306
+  orig: 258, 306
+  offset: 0, 0
+  index: -1
+background/generalbg/mtncloudb
+  rotate: false
+  xy: 264, 877
+  size: 400, 145
+  orig: 400, 145
+  offset: 0, 0
+  index: -1
+background/generalbg/Tree-3-C1
+  rotate: false
+  xy: 2, 369
+  size: 180, 343
+  orig: 180, 343
+  offset: 0, 0
+  index: -1
+background/generalbg/ruinstower
+  rotate: false
+  xy: 2, 11
+  size: 145, 354
+  orig: 145, 354
+  offset: 0, 0
+  index: -1
+background/generalbg/Cloud-1
+  rotate: false
+  xy: 264, 798
+  size: 440, 75
+  orig: 440, 75
+  offset: 0, 0
+  index: -1
+background/generalbg/Cloud-3
+  rotate: false
+  xy: 264, 733
+  size: 477, 61
+  orig: 477, 61
+  offset: 0, 0
+  index: -1
+background/generalbg/Cloud-4
+  rotate: false
+  xy: 264, 686
+  size: 471, 43
+  orig: 471, 43
+  offset: 0, 0
+  index: -1
+background/generalbg/Moon
+  rotate: false
+  xy: 186, 426
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+background/generalbg/ruinswall
+  rotate: false
+  xy: 446, 438
+  size: 256, 244
+  orig: 256, 244
+  offset: 0, 0
+  index: -1
+background/generalbg/mtncloudc
+  rotate: false
+  xy: 668, 899
+  size: 305, 123
+  orig: 305, 123
+  offset: 0, 0
+  index: -1
+background/generalbg/Tree-2-C1
+  rotate: false
+  xy: 151, 83
+  size: 180, 282
+  orig: 180, 282
+  offset: 0, 0
+  index: -1
+background/generalbg/Tree-1-C1
+  rotate: false
+  xy: 335, 166
+  size: 205, 256
+  orig: 205, 256
+  offset: 0, 0
+  index: -1
+background/generalbg/cracka
+  rotate: false
+  xy: 544, 178
+  size: 79, 256
+  orig: 79, 256
+  offset: 0, 0
+  index: -1
+background/generalbg/crackc
+  rotate: false
+  xy: 627, 178
+  size: 77, 256
+  orig: 77, 256
+  offset: 0, 0
+  index: -1
+background/generalbg/baretreea
+  rotate: false
+  xy: 335, 2
+  size: 113, 160
+  orig: 113, 160
+  offset: 0, 0
+  index: -1
+background/generalbg/Cloud-2
+  rotate: false
+  xy: 708, 853
+  size: 286, 42
+  orig: 286, 42
+  offset: 0, 0
+  index: -1
+background/generalbg/Cloud-5
+  rotate: false
+  xy: 708, 815
+  size: 294, 34
+  orig: 294, 34
+  offset: 0, 0
+  index: -1
+background/generalbg/crackb
+  rotate: false
+  xy: 452, 2
+  size: 57, 160
+  orig: 57, 160
+  offset: 0, 0
+  index: -1
+background/generalbg/mushrooma
+  rotate: false
+  xy: 745, 691
+  size: 153, 120
+  orig: 153, 120
+  offset: 0, 0
+  index: -1
+background/generalbg/baretreeb
+  rotate: false
+  xy: 902, 659
+  size: 112, 152
+  orig: 112, 152
+  offset: 0, 0
+  index: -1
+background/generalbg/foresttreed
+  rotate: false
+  xy: 706, 506
+  size: 124, 176
+  orig: 124, 176
+  offset: 0, 0
+  index: -1
+background/generalbg/baretreed
+  rotate: false
+  xy: 708, 337
+  size: 136, 165
+  orig: 136, 165
+  offset: 0, 0
+  index: -1
+background/generalbg/foresttreec
+  rotate: false
+  xy: 708, 163
+  size: 110, 170
+  orig: 110, 170
+  offset: 0, 0
+  index: -1
+background/generalbg/baretreec
+  rotate: false
+  xy: 834, 506
+  size: 105, 149
+  orig: 105, 149
+  offset: 0, 0
+  index: -1
+background/generalbg/mushroomb
+  rotate: false
+  xy: 848, 338
+  size: 95, 164
+  orig: 95, 164
+  offset: 0, 0
+  index: -1
+background/generalbg/foresttreea
+  rotate: false
+  xy: 822, 172
+  size: 98, 161
+  orig: 98, 161
+  offset: 0, 0
+  index: -1
+background/generalbg/foresttreeb
+  rotate: false
+  xy: 513, 24
+  size: 100, 138
+  orig: 100, 138
+  offset: 0, 0
+  index: -1
+background/generalbg/mushroomc
+  rotate: false
+  xy: 617, 57
+  size: 99, 102
+  orig: 99, 102
+  offset: 0, 0
+  index: -1
+
+game4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: x
+background/mountain/Mountain-Tile
+  rotate: false
+  xy: 0, 166
+  size: 1024, 402
+  orig: 1024, 402
+  offset: 0, 0
+  index: -1
+background/mountain/Tree-Near
+  rotate: false
+  xy: 0, 2
+  size: 1024, 160
+  orig: 1024, 160
+  offset: 0, 0
+  index: -1
+
+game5.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: x
+background/mtn/mtnmid
+  rotate: false
+  xy: 0, 216
+  size: 1024, 342
+  orig: 1024, 342
+  offset: 0, 0
+  index: -1
+background/mtn/mtnfg
+  rotate: false
+  xy: 0, 2
+  size: 1024, 210
+  orig: 1024, 210
+  offset: 0, 0
+  index: -1
+
+game6.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+background/tiles/caverntile/cavern-tile
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+game7.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+background/tiles/foresttile/forest-tile
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+game8.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+background/tiles/rocktile/rock-tile
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+game9.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+background/tiles/volcanotile/v-tile
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+game10.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+background/tiles/woodtile/wood-tile
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+game11.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: x
+background/valley/valleybg
+  rotate: false
+  xy: 0, 534
+  size: 1024, 372
+  orig: 1024, 372
+  offset: 0, 0
+  index: -1
+background/valley/valleymid
+  rotate: false
+  xy: 0, 158
+  size: 1024, 372
+  orig: 1024, 372
+  offset: 0, 0
+  index: -1
+background/valley/valleyfg
+  rotate: false
+  xy: 0, 2
+  size: 1024, 152
+  orig: 1024, 152
+  offset: 0, 0
+  index: -1
+
+game12.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: x
+background/volcano/volcanobg
+  rotate: false
+  xy: 0, 536
+  size: 1024, 476
+  orig: 1024, 476
+  offset: 0, 0
+  index: -1
+background/volcano/volcanomid
+  rotate: false
+  xy: 0, 158
+  size: 1024, 374
+  orig: 1024, 374
+  offset: 0, 0
+  index: -1
+background/volcano/volcanofg
+  rotate: false
+  xy: 0, 2
+  size: 1024, 152
+  orig: 1024, 152
+  offset: 0, 0
+  index: -1
+
+game13.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui/logo
+  rotate: false
+  xy: 2, 703
+  size: 620, 319
+  orig: 620, 319
+  offset: 0, 0
+  index: -1
+ui/loading
+  rotate: false
+  xy: 2, 169
+  size: 400, 530
+  orig: 400, 530
+  offset: 0, 0
+  index: -1
+ui/palette
+  rotate: false
+  xy: 406, 459
+  size: 454, 240
+  orig: 454, 240
+  offset: 0, 0
+  index: -1
+ui/forestbgbtn
+  rotate: false
+  xy: 2, 79
+  size: 256, 86
+  orig: 256, 86
+  offset: 0, 0
+  index: -1
+ui/mtnbgbtn
+  rotate: false
+  xy: 626, 936
+  size: 256, 86
+  orig: 256, 86
+  offset: 0, 0
+  index: -1
+ui/valleybgbtn
+  rotate: false
+  xy: 406, 369
+  size: 256, 86
+  orig: 256, 86
+  offset: 0, 0
+  index: -1
+ui/volcanobgbtn
+  rotate: false
+  xy: 626, 846
+  size: 256, 86
+  orig: 256, 86
+  offset: 0, 0
+  index: -1
+ui/nestscorea
+  rotate: false
+  xy: 406, 235
+  size: 161, 130
+  orig: 161, 130
+  offset: 0, 0
+  index: -1
+ui/nestscoreb
+  rotate: false
+  xy: 626, 712
+  size: 161, 130
+  orig: 161, 130
+  offset: 0, 0
+  index: -1
+ui/hita
+  rotate: false
+  xy: 886, 857
+  size: 117, 165
+  orig: 117, 165
+  offset: 0, 0
+  index: -1
+ui/circlebutton2f
+  rotate: false
+  xy: 666, 369
+  size: 149, 86
+  split: 74, 74, 42, 42
+  orig: 149, 86
+  offset: 0, 0
+  index: -1
+ui/Actions-help-hint-icon
+  rotate: false
+  xy: 571, 241
+  size: 128, 124
+  orig: 128, 124
+  offset: 0, 0
+  index: -1
+ui/hitb
+  rotate: false
+  xy: 703, 200
+  size: 117, 165
+  orig: 117, 165
+  offset: 0, 0
+  index: -1
+ui/circlebutton3f
+  rotate: false
+  xy: 262, 79
+  size: 149, 86
+  split: 74, 74, 42, 42
+  orig: 149, 86
+  offset: 0, 0
+  index: -1
+ui/swoopwing
+  rotate: false
+  xy: 791, 704
+  size: 89, 138
+  orig: 89, 138
+  offset: 0, 0
+  index: -1
+ui/hitc
+  rotate: false
+  xy: 415, 66
+  size: 117, 165
+  orig: 117, 165
+  offset: 0, 0
+  index: -1
+ui/hazard
+  rotate: false
+  xy: 536, 72
+  size: 96, 159
+  orig: 96, 159
+  offset: 0, 0
+  index: -1
+ui/glossybutton
+  rotate: false
+  xy: 2, 35
+  size: 125, 40
+  split: 4, 4, 4, 4
+  orig: 125, 40
+  offset: 0, 0
+  index: -1
+ui/glowybutton
+  rotate: false
+  xy: 131, 35
+  size: 125, 40
+  split: 5, 5, 5, 4
+  orig: 125, 40
+  offset: 0, 0
+  index: -1
+ui/goback
+  rotate: false
+  xy: 636, 187
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+ui/egggemsia
+  rotate: false
+  xy: 636, 53
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+ui/egggemsib
+  rotate: false
+  xy: 720, 66
+  size: 82, 130
+  orig: 82, 130
+  offset: 0, 0
+  index: -1
+ui/basicbutton
+  rotate: false
+  xy: 819, 369
+  size: 86, 86
+  split: 42, 42, 42, 42
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+ui/helpbg
+  rotate: false
+  xy: 824, 265
+  size: 100, 100
+  split: 9, 9, 9, 9
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ui/basicbutton3
+  rotate: false
+  xy: 824, 175
+  size: 86, 86
+  split: 42, 42, 42, 42
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+ui/magicgate
+  rotate: false
+  xy: 806, 64
+  size: 71, 107
+  orig: 71, 107
+  offset: 0, 0
+  index: -1
+ui/padlock
+  rotate: false
+  xy: 881, 71
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+ui/circlebutton
+  rotate: false
+  xy: 914, 175
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+ui/circlebutton2
+  rotate: false
+  xy: 914, 175
+  size: 86, 86
+  split: 42, 42, 42, 42
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+ui/firedamage
+  rotate: false
+  xy: 955, 123
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+ui/medal
+  rotate: false
+  xy: 955, 55
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+ui/circlebutton3
+  rotate: false
+  xy: 864, 614
+  size: 86, 86
+  split: 42, 42, 42, 42
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+ui/helpbgdk
+  rotate: false
+  xy: 864, 524
+  size: 86, 86
+  split: 24, 26, 24, 26
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+ui/staminaregen
+  rotate: false
+  xy: 864, 472
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+ui/tilt
+  rotate: false
+  xy: 260, 37
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+ui/tiltdisable
+  rotate: false
+  xy: 326, 37
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+ui/egggemsiia
+  rotate: false
+  xy: 886, 775
+  size: 86, 78
+  orig: 86, 78
+  offset: 0, 0
+  index: -1
+ui/eggradar
+  rotate: false
+  xy: 976, 805
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+ui/staminaboost
+  rotate: false
+  xy: 976, 753
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+ui/timesup
+  rotate: false
+  xy: 884, 707
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+ui/default-window
+  rotate: false
+  xy: 2, 2
+  size: 27, 29
+  split: 4, 3, 20, 3
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+ui/egggemsiib
+  rotate: false
+  xy: 909, 394
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+ui/breatheweapon
+  rotate: false
+  xy: 928, 472
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+ui/pedestal
+  rotate: false
+  xy: 928, 341
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+ui/disabletips
+  rotate: false
+  xy: 989, 340
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+ui/swoop
+  rotate: false
+  xy: 928, 289
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+ui/default-select
+  rotate: false
+  xy: 928, 265
+  size: 27, 20
+  split: 4, 14, 4, 4
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+ui/fireboost
+  rotate: false
+  xy: 984, 288
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+ui/settings
+  rotate: false
+  xy: 260, 2
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+ui/Home
+  rotate: false
+  xy: 990, 717
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ui/cancel
+  rotate: false
+  xy: 990, 681
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ui/default-round-large
+  rotate: false
+  xy: 959, 265
+  size: 20, 20
+  split: 5, 5, 5, 4
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ui/dragonoutline
+  rotate: false
+  xy: 990, 645
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ui/trophy
+  rotate: false
+  xy: 954, 592
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+ui/wingspeed
+  rotate: false
+  xy: 954, 540
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+ui/exit
+  rotate: false
+  xy: 296, 5
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+ui/dialog-ok-apply
+  rotate: false
+  xy: 33, 6
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+ui/levelselect
+  rotate: false
+  xy: 332, 9
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+ui/play
+  rotate: false
+  xy: 947, 739
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+ui/embers
+  rotate: false
+  xy: 720, 14
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+ui/enabletips
+  rotate: false
+  xy: 768, 12
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+ui/timesupupgrade
+  rotate: false
+  xy: 805, 12
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+ui/sound
+  rotate: false
+  xy: 853, 15
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+ui/sounddisable
+  rotate: false
+  xy: 900, 22
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+ui/music
+  rotate: false
+  xy: 947, 11
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+ui/musicdisable
+  rotate: false
+  xy: 986, 11
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+ui/ends
+  rotate: false
+  xy: 69, 18
+  size: 38, 13
+  split: 18, 18, 6, 6
+  orig: 38, 13
+  offset: 0, 0
+  index: -1
+ui/check-off
+  rotate: false
+  xy: 806, 182
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/textfield
+  rotate: false
+  xy: 806, 182
+  size: 14, 14
+  split: 3, 3, 3, 3
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/check-on
+  rotate: false
+  xy: 1008, 627
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/tree-minus
+  rotate: false
+  xy: 1008, 609
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/tree-plus
+  rotate: false
+  xy: 1008, 591
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/default-scroll
+  rotate: false
+  xy: 947, 715
+  size: 20, 20
+  split: 2, 2, 2, 2
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ui/Left-Arrow
+  rotate: false
+  xy: 954, 679
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+ui/default-round-down
+  rotate: false
+  xy: 971, 715
+  size: 12, 20
+  split: 5, 5, 5, 4
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+ui/default-round
+  rotate: false
+  xy: 392, 55
+  size: 12, 20
+  split: 5, 5, 5, 4
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+ui/replay
+  rotate: false
+  xy: 536, 36
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+ui/Right-Arrow
+  rotate: false
+  xy: 570, 36
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+ui/default-slider-knob
+  rotate: false
+  xy: 1007, 1004
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+ui/button1
+  rotate: false
+  xy: 909, 377
+  size: 13, 13
+  split: 6, 6, 5, 6
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+ui/button1ns
+  rotate: false
+  xy: 111, 18
+  size: 13, 13
+  split: 6, 6, 6, 6
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+ui/button2
+  rotate: false
+  xy: 954, 662
+  size: 13, 13
+  split: 6, 6, 6, 6
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+ui/default-pane
+  rotate: false
+  xy: 881, 64
+  size: 5, 3
+  split: 1, 1, 1, 1
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+ui/default-rect-pad
+  rotate: false
+  xy: 881, 64
+  size: 5, 3
+  split: 1, 1, 1, 1
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+ui/default-splitpane-vertical
+  rotate: false
+  xy: 408, 70
+  size: 3, 5
+  split: 0, 0, 0, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+ui/default-splitpane
+  rotate: false
+  xy: 806, 175
+  size: 5, 3
+  split: 0, 5, 0, 0
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+ui/default-slider
+  rotate: false
+  xy: 703, 188
+  size: 8, 8
+  split: 2, 2, 2, 2
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ui/cursor
+  rotate: false
+  xy: 947, 708
+  size: 3, 3
+  split: 1, 1, 1, 1
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ui/default-rect-down
+  rotate: false
+  xy: 890, 64
+  size: 3, 3
+  split: 1, 1, 1, 1
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ui/default-rect
+  rotate: false
+  xy: 815, 175
+  size: 3, 3
+  split: 1, 1, 1, 1
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ui/default-select-selection
+  rotate: false
+  xy: 332, 2
+  size: 3, 3
+  split: 1, 1, 1, 1
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ui/default-pane-noborder
+  rotate: false
+  xy: 715, 195
+  size: 1, 1
+  split: 0, 0, 0, 0
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui/default-trans-blk
+  rotate: false
+  xy: 715, 190
+  size: 1, 1
+  split: 0, 0, 0, 0
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui/default-trans
+  rotate: false
+  xy: 626, 707
+  size: 1, 1
+  split: 0, 0, 0, 0
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui/selection
+  rotate: false
+  xy: 406, 230
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui/white
+  rotate: false
+  xy: 571, 236
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
